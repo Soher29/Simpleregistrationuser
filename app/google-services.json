@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487079849126",
+    "project_id": "simpleregis-739cb",
+    "storage_bucket": "simpleregis-739cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487079849126:android:cb50ee25b4b8b6cee5d867",
+        "android_client_info": {
+          "package_name": "com.example.simpleregistrationuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZhLYbdc8lFGWDQFsODqUyIu15x0DX3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
