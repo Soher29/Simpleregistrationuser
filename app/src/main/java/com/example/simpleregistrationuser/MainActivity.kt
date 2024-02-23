@@ -11,6 +11,7 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
+import com.google.android.material.textfield.TextInputLayout
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
@@ -27,6 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         auth = FirebaseAuth.getInstance()
         editTextPassword = findViewById(R.id.editTextPassword)
+
         editTextEmailAddress = findViewById(R.id.editTextEmailAddress)
         buttonLogin = findViewById(R.id.buttonRegister)
         buttonLogin.setOnClickListener {
